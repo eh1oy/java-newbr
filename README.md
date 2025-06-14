@@ -27,7 +27,7 @@
 1. Убедись, что установлен [Android Studio](https://developer.android.com/studio). 
 2. Склонируй репозиторий:
    ```bash
-   git clone https://github.com/yourusername/BLACK-RUSSIA-NEW-ENGINE.git 
+   git clone https://github.com/eh1oy/java-newbr.git
    
 
 
