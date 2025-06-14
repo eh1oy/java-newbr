@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_margin="3.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ProgressBar android:id="@id/inv_items_progress_bar" android:background="@drawable/bg_progress_bar" android:layout_width="30.0dip" android:layout_height="30.0dip" android:max="100" android:progressDrawable="@drawable/bg_progress_bar_progress" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="?android:progressBarStyleHorizontal" />
+    <ImageView android:id="@id/inv_state_item_icon" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_margin="8.0dip" app:layout_constraintBottom_toBottomOf="@id/inv_items_progress_bar" app:layout_constraintEnd_toEndOf="@id/inv_items_progress_bar" app:layout_constraintStart_toStartOf="@id/inv_items_progress_bar" app:layout_constraintTop_toTopOf="@id/inv_items_progress_bar" />
+</androidx.constraintlayout.widget.ConstraintLayout>

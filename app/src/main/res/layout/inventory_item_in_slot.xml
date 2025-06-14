@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:id="@id/players_item_bg" android:background="@drawable/bg_rectangle_black65_cr4" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_marginTop="2.0dip" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <View android:id="@id/inv_slot_active_bg" android:background="@drawable/bg_rectangle_transparent_cr4_t4_orange" android:layout_width="0.0dip" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="@id/players_item_bg" app:layout_constraintEnd_toEndOf="@id/players_item_bg" app:layout_constraintStart_toStartOf="@id/players_item_bg" app:layout_constraintTop_toTopOf="@id/players_item_bg" />
+    <ImageView android:id="@id/players_item" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_margin="3.0dip" android:scaleX="-1.0" app:layout_constraintBottom_toBottomOf="@id/players_item_bg" app:layout_constraintEnd_toEndOf="@id/players_item_bg" app:layout_constraintStart_toStartOf="@id/players_item_bg" app:layout_constraintTop_toTopOf="@id/players_item_bg" />
+    <ImageView android:id="@id/icon_telephone" android:layout_width="25.0dip" android:layout_height="35.0dip" android:src="@drawable/ic_phone" app:layout_constraintBottom_toBottomOf="@id/players_item_bg" app:layout_constraintStart_toEndOf="@id/players_item_bg" app:layout_constraintTop_toTopOf="@id/players_item_bg" />
+</androidx.constraintlayout.widget.ConstraintLayout>

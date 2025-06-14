@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.br.top.app-mergeDebugResources-55:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\javanew\\java\\app\\src\\main\\res\\values-h550dp-port\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "67",
+                        "endOffsets": "120"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "67",
+                        "endOffsets": "118"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\death\\.gradle\\caches\\8.9\\transforms\\599761eb4d3abd6c9adda9d8f2a6785f\\transformed\\material-1.9.0\\res\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "123",
+                        "endColumns": "76",
+                        "endOffsets": "195"
+                    }
+                }
+            ]
+        }
+    ]
+}

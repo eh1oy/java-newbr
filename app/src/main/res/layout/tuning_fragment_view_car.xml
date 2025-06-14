@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/container_switch_view" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginStart="20.0dip">
+        <ImageView android:id="@id/button_door_view" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginBottom="10.0dip" android:src="@drawable/tuning_door_off" />
+        <ImageView android:id="@id/button_light_view" android:layout_width="60.0dip" android:layout_height="60.0dip" android:src="@drawable/tuning_light_off" />
+    </LinearLayout>
+    <androidx.appcompat.widget.AppCompatButton android:textSize="14.0sp" android:textColor="@color/white" android:id="@id/back_menu_view" android:background="@drawable/tuning_bg_button_back" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="20.0dip" android:text="@string/common_return" android:drawablePadding="10.0dip" android:layout_alignParentBottom="true" android:drawableStart="@drawable/tuning_back" android:paddingStart="20.0dip" android:paddingEnd="20.0dip" android:layout_marginEnd="10.0dip" android:layout_alignParentEnd="true" />
+</RelativeLayout>

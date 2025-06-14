@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/ivBackground" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:contentDescription="@string/common_content_description_icon" />
+    <androidx.fragment.app.FragmentContainerView android:id="@id/fragment_container_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <androidx.compose.ui.platform.ComposeView android:id="@id/cvTestInfo" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

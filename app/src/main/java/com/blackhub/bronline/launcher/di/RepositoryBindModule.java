@@ -1,0 +1,37 @@
+package com.blackhub.bronline.launcher.di;
+
+import androidx.compose.runtime.internal.StabilityInferred;
+import com.blackhub.bronline.game.repository.GiftsRepository;
+import com.blackhub.bronline.game.repository.LauncherRepository;
+import com.blackhub.bronline.game.repository.UpgradeObjectRepository;
+import com.blackhub.bronline.game.repository.impl.GiftsRepositoryImpl;
+import com.blackhub.bronline.game.repository.impl.LauncherRepositoryImpl;
+import com.blackhub.bronline.game.repository.impl.UpgradeObjectRepositoryImpl;
+import dagger.Binds;
+import dagger.Module;
+import kotlin.Metadata;
+import org.jetbrains.annotations.NotNull;
+
+/* JADX WARN: Classes with same name are omitted:
+  C:\javanew\classes4.dex
+ */
+/* compiled from: RepositoryBindModule.kt */
+@StabilityInferred(parameters = 1)
+@Metadata(d1 = {"\u00000\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\b'\u0018\u00002\u00020\u0001B\u0005¢\u0006\u0002\u0010\u0002J\u0010\u0010\u0003\u001a\u00020\u00042\u0006\u0010\u0005\u001a\u00020\u0006H'J\u0010\u0010\u0007\u001a\u00020\b2\u0006\u0010\t\u001a\u00020\nH'J\u0010\u0010\u000b\u001a\u00020\f2\u0006\u0010\r\u001a\u00020\u000eH'¨\u0006\u000f"}, d2 = {"Lcom/blackhub/bronline/launcher/di/RepositoryBindModule;", "", "()V", "bindGiftsRepository", "Lcom/blackhub/bronline/game/repository/GiftsRepository;", "giftsRepositoryImpl", "Lcom/blackhub/bronline/game/repository/impl/GiftsRepositoryImpl;", "bindLauncherRepository", "Lcom/blackhub/bronline/game/repository/LauncherRepository;", "launcherRepositoryImpl", "Lcom/blackhub/bronline/game/repository/impl/LauncherRepositoryImpl;", "bindUpgradeObjectRepository", "Lcom/blackhub/bronline/game/repository/UpgradeObjectRepository;", "upgradeObjectRepositoryImpl", "Lcom/blackhub/bronline/game/repository/impl/UpgradeObjectRepositoryImpl;", "app_siteRelease"}, k = 1, mv = {1, 9, 0}, xi = 48)
+@Module
+/* loaded from: classes4.dex */
+public abstract class RepositoryBindModule {
+    public static final int $stable = 0;
+
+    @Binds
+    @NotNull
+    public abstract GiftsRepository bindGiftsRepository(@NotNull GiftsRepositoryImpl giftsRepositoryImpl);
+
+    @Binds
+    @NotNull
+    public abstract LauncherRepository bindLauncherRepository(@NotNull LauncherRepositoryImpl launcherRepositoryImpl);
+
+    @Binds
+    @NotNull
+    public abstract UpgradeObjectRepository bindUpgradeObjectRepository(@NotNull UpgradeObjectRepositoryImpl upgradeObjectRepositoryImpl);
+}

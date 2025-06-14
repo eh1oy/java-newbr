@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/paylib_design_spacer_3x" />
+    <gradient android:startColor="?paylib_native_skeleton_background_start_color" android:endColor="?paylib_native_skeleton_background_end_color" android:angle="0.0" android:type="linear" />
+</shape>

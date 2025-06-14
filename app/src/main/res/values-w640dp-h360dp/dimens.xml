@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="_11brsp">14.0sp</dimen>
+    <dimen name="_12brsp">15.0sp</dimen>
+    <dimen name="_154brdp">193.0dip</dimen>
+    <dimen name="_16brsp">22.0sp</dimen>
+    <dimen name="_24brdp">30.0dip</dimen>
+    <dimen name="_32brdp">40.0dip</dimen>
+    <dimen name="_39brdp">50.0dip</dimen>
+    <dimen name="_59brdp">74.0dip</dimen>
+    <dimen name="_5brsp">6.0sp</dimen>
+    <dimen name="_6brsp">8.0sp</dimen>
+    <dimen name="_70brdp">88.0dip</dimen>
+    <dimen name="_72brdp">90.0dip</dimen>
+    <dimen name="_7brsp">10.0sp</dimen>
+    <dimen name="_8brsp">11.0sp</dimen>
+    <dimen name="_9brsp">12.0sp</dimen>
+    <dimen name="catch_streamer_start_block_person">-20.0dip</dimen>
+</resources>

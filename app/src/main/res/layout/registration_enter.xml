@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/reg_ll" android:paddingLeft="30.0dip" android:paddingTop="70.0dip" android:paddingRight="25.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:id="@id/text_header" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Выберите способ авторизации:" android:fontFamily="@font/montserrat_regular" />
+    <androidx.appcompat.widget.AppCompatButton android:id="@id/enter" android:background="@drawable/img_button_sign_in" android:layout_width="fill_parent" android:layout_height="35.0dip" android:layout_marginTop="10.0dip" />
+    <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:id="@id/textView20" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="Скоро будет доступно:" android:fontFamily="@font/montserrat_regular" />
+    <androidx.appcompat.widget.AppCompatButton android:id="@id/vk_enter" android:background="@drawable/img_button_sign_in_vk" android:layout_width="fill_parent" android:layout_height="35.0dip" android:layout_marginTop="10.0dip" />
+    <androidx.appcompat.widget.AppCompatButton android:id="@id/google_enter" android:background="@drawable/img_button_sign_in_google" android:layout_width="fill_parent" android:layout_height="35.0dip" android:layout_marginTop="5.0dip" />
+</LinearLayout>

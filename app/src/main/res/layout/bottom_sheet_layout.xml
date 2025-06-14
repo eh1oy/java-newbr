@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/bottom_sheet_content" android:layout_width="fill_parent" android:layout_height="fill_parent" app:behavior_hideable="true" app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:background="@drawable/background_auth_dialog" android:layout_width="fill_parent" android:layout_height="15.0dip" />
+    <WebView android:id="@id/auth_web_view" android:layout_width="fill_parent" android:layout_height="360.0dip" />
+    <FrameLayout android:id="@id/progress_bar" android:layout_width="fill_parent" android:layout_height="360.0dip">
+        <ProgressBar android:layout_gravity="center" android:layout_width="34.0dip" android:layout_height="34.0dip" android:indeterminate="true" android:indeterminateTint="@color/ru_store_progress" android:indeterminateTintMode="src_atop" />
+    </FrameLayout>
+</LinearLayout>

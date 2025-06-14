@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.br.top.app-mergeDebugResources-55:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\javanew\\java\\app\\src\\main\\res\\values-h320dp-port\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "66",
+                        "endOffsets": "119"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\death\\.gradle\\caches\\8.9\\transforms\\599761eb4d3abd6c9adda9d8f2a6785f\\transformed\\material-1.9.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "122",
+                        "endColumns": "75",
+                        "endOffsets": "193"
+                    }
+                }
+            ]
+        }
+    ]
+}

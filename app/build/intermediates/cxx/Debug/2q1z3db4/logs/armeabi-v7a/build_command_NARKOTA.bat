@@ -1,0 +1,12 @@
+@echo off
+"C:\\Users\\death\\AppData\\Local\\Android\\Sdk\\ndk\\16.1.4479499\\ndk-build.cmd" ^
+  "NDK_PROJECT_PATH=null" ^
+  "APP_BUILD_SCRIPT=C:\\javanew\\java\\app\\src\\main\\cpp\\jni\\Android.mk" ^
+  "NDK_APPLICATION_MK=C:\\javanew\\java\\app\\src\\main\\cpp\\jni\\Application.mk" ^
+  "APP_ABI=armeabi-v7a" ^
+  "NDK_ALL_ABIS=armeabi-v7a" ^
+  "NDK_DEBUG=1" ^
+  "APP_PLATFORM=android-21" ^
+  "NDK_OUT=C:\\javanew\\java\\app\\build\\intermediates\\cxx\\Debug\\2q1z3db4/obj" ^
+  "NDK_LIBS_OUT=C:\\javanew\\java\\app\\build\\intermediates\\cxx\\Debug\\2q1z3db4/lib" ^
+  NARKOTA

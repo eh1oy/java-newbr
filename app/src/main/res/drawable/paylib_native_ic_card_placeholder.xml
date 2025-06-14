@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="20.0dip" android:width="30.0dip" android:viewportWidth="30.0" android:viewportHeight="20.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="@drawable/$paylib_native_ic_card_placeholder__0" android:pathData="M6,0L24,0A6,6 0,0 1,30 6L30,14A6,6 0,0 1,24 20L6,20A6,6 0,0 1,0 14L0,6A6,6 0,0 1,6 0z" android:fillAlpha="0.12" />
+</vector>

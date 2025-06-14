@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/$img_gasman_highlight_end_corner_pipe__0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <target android:name="path_8" android:animation="@drawable/$img_gasman_highlight_end_corner_pipe__1" />
+    <target android:name="path_9" android:animation="@drawable/$img_gasman_highlight_end_corner_pipe__2" />
+    <target android:name="path_10" android:animation="@drawable/$img_gasman_highlight_end_corner_pipe__3" />
+    <target android:name="path_4" android:animation="@drawable/$img_gasman_highlight_end_corner_pipe__4" />
+    <target android:name="path_5" android:animation="@drawable/$img_gasman_highlight_end_corner_pipe__5" />
+    <target android:name="path_6" android:animation="@drawable/$img_gasman_highlight_end_corner_pipe__6" />
+</animated-vector>

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.br.top.app-mergeDebugResources-55:/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\javanew\\java\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,102,144,187,230,273,316,359",
+                        "endColumns": "43,40,41,41,41,41,41,41",
+                        "endOffsets": "96,138,181,224,267,310,353,396"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,140,182,224,266,308,350",
+                        "endColumns": "43,40,41,41,41,41,41,41",
+                        "endOffsets": "94,135,177,219,261,303,345,387"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:shareInterpolator="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <alpha android:duration="@integer/fade_anim_duration_ms" android:fromAlpha="1.0" android:toAlpha="0.0" />
+    <translate android:duration="@integer/translate_anim_duration_ms" android:fromXDelta="0.0%" android:toXDelta="2.9999971%" android:fromYDelta="0.0%" android:toYDelta="0.0%" />
+</set>

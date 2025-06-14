@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/$paylib_native_ic_loading_light__6" xmlns:aapt="http://schemas.android.com/aapt"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <target android:name="group" android:animation="@drawable/$paylib_native_ic_loading_light__0" />
+    <target android:name="group_1" android:animation="@drawable/$paylib_native_ic_loading_light__1" />
+    <target android:name="group_2" android:animation="@drawable/$paylib_native_ic_loading_light__2" />
+    <target android:name="path" android:animation="@drawable/$paylib_native_ic_loading_light__3" />
+    <target android:name="path_1" android:animation="@drawable/$paylib_native_ic_loading_light__4" />
+    <target android:name="path_2" android:animation="@drawable/$paylib_native_ic_loading_light__5" />
+</animated-vector>

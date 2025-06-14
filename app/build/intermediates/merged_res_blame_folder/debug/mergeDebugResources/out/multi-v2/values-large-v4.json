@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.br.top.app-mergeDebugResources-55:/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\javanew\\java\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "57,120,199,273,351,424,500",
+                        "endColumns": "61,77,72,76,71,74,73",
+                        "endOffsets": "114,193,267,345,418,494,569"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,195,268,345,417,492",
+                        "endColumns": "61,77,72,76,71,74,73",
+                        "endOffsets": "112,190,263,340,412,487,561"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\death\\.gradle\\caches\\8.9\\transforms\\599761eb4d3abd6c9adda9d8f2a6785f\\transformed\\material-1.9.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "4,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "311,752",
+                        "endLines": "9,15",
+                        "endColumns": "10,10",
+                        "endOffsets": "747,1190"
+                    },
+                    "to": {
+                        "startLines": "15,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "1314,1755",
+                        "endLines": "20,26",
+                        "endColumns": "10,10",
+                        "endOffsets": "1750,2193"
+                    }
+                },
+                {
+                    "source": "C:\\javanew\\java\\app\\src\\main\\res\\values-large\\styles.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "57,170,295,418,543,674",
+                        "endColumns": "111,123,121,123,129,141",
+                        "endOffsets": "164,289,412,537,668,811"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "566,677,800,921,1044,1173",
+                        "endColumns": "110,122,120,122,128,140",
+                        "endOffsets": "672,795,916,1039,1168,1309"
+                    }
+                }
+            ]
+        }
+    ]
+}

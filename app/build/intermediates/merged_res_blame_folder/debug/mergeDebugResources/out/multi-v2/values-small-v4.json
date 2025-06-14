@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.br.top.app-mergeDebugResources-55:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\death\\.gradle\\caches\\8.9\\transforms\\599761eb4d3abd6c9adda9d8f2a6785f\\transformed\\material-1.9.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "128,198",
+                        "endColumns": "69,71",
+                        "endOffsets": "193,265"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "131,201",
+                        "endColumns": "69,71",
+                        "endOffsets": "196,268"
+                    }
+                },
+                {
+                    "source": "C:\\javanew\\java\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,134",
+                        "endColumns": "75,72",
+                        "endOffsets": "128,202"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,273",
+                        "endColumns": "75,72",
+                        "endOffsets": "126,341"
+                    }
+                }
+            ]
+        }
+    ]
+}
